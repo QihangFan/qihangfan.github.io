@@ -6,6 +6,8 @@
 - [2024 MUSE Creative Awards in Experimental Website Gold Winner](https://museaward.com/winner-info.php?id=228542) by MUSE Creative Awards
 - [2024 AVA Digital Awards in UX Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies/) by Association of Marketing and Communication Professionals
 - [2024 AVA Digital Awards in Video Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies-2/) by Association of Marketing and Communication Professionals
+- [2024 NYX Awards in Website Aesthetics Gold Winner](https://nyxawards.com/winner-info.php?id=6628) by NYX Awards
+- [2024 NYX Awards in Best User Experience Gold Winner](https://nyxawards.com/winner-info.php?id=6629) by NYX Awards
 - 2024 Interactive Competition Finalist by Communication Arts
 - [2023 UX Design Awards Nominated](https://ux-design-awards.com/winners/2024-1-four-typologies) by International Design Center Berlin
 - [2023 International Design Awards in Website Design Silver Winner](https://www.idesignawards.com/winners/zoom.php?eid=9-49348-23) by International Design Awards
