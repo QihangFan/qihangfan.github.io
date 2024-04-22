@@ -6,6 +6,7 @@
 - [2024 AVA Digital Awards in Video Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies-2/) by Association of Marketing and Communication Professionals
 - [2024 MUSE Creative Awards in Art&Design Gold Winner](https://museaward.com/winner-info.php?id=228541) by MUSE Creative Awards
 - [2024 MUSE Creative Awards in Experimental Website Gold Winner](https://museaward.com/winner-info.php?id=228542) by MUSE Creative Awards
+- [2024 Indigo Awards in Interactive Design, Website Design, Digital Art Gold Winner](https://indigoaward.com/winners/7560) by Indigo Design Award
 - [2024 NYX Awards in Website Aesthetics Gold Winner](https://nyxawards.com/winner-info.php?id=6628) by NYX Awards
 - [2024 NYX Awards in Best User Experience Gold Winner](https://nyxawards.com/winner-info.php?id=6629) by NYX Awards
 - [2024 New York Product Design Awards in Interface for Digital Media Silver Winner](https://nydesignawards.com/winner-info.php?id=1766) by New York Product Design Awards
