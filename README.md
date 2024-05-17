@@ -1,5 +1,4 @@
 # Four Typologies in Immersive Web3 Architecture Experience
-<br><br>
 
 Four Typologies is a responsive interactive media website that introduces new decentralized and localized Garden Fashion Factory Typologies evoking humanity and resisting industrial mechanization trends. The website allows users to explore architectural designs from a macro perspective, appreciating the intricate miniatures, to a micro level where they can engage with nuanced interactions and dynamic textures. It immerses users into a nonlinear upcycling handicraft workflow tailored to each architectural miniature, which makes architectural designs and fashion concepts more tangible, interactive, and accessible to a wider audience.
 <br><br>
