@@ -38,7 +38,7 @@ This web project results from the exploration of the overlapping fields of archi
 <br><br>
 <p align="center">
   <a href="https://vimeo.com/836404904">
-  <img alt="image-display" width="1200px" src="Materials/Image/4Typos_WebApp.png" />
+  <img alt="image-display" width="1200px" src="Materials/Image/4Typos_06_Cover.jpg" />
   </a>
 </p>
 <br>
