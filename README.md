@@ -1,4 +1,8 @@
 # Four Typologies in Immersive Web3 Architecture Experience
+<br><br>
+
+Four Typologies is a responsive interactive media website that introduces new decentralized and localized Garden Fashion Factory Typologies evoking humanity and resisting industrial mechanization trends. The website allows users to explore architectural designs from a macro perspective, appreciating the intricate miniatures, to a micro level where they can engage with nuanced interactions and dynamic textures. It immerses users into a nonlinear upcycling handicraft workflow tailored to each architectural miniature, which makes architectural designs and fashion concepts more tangible, interactive, and accessible to a wider audience.
+<br><br>
 
 **Recognitions:**
 - [2024 iF Design Award Winner](https://ifdesign.com/en/winner-ranking/project/four-typologies-immersive-web-experience/622719) by iF International Forum Design
@@ -28,7 +32,7 @@
 - [2023 ASUS ProArtist Awards Animation Top 30](https://www.asus.com/campaign/ASUS-ProArtist-Awards-2023/us/winner.php) by ASUSTeK Computer Inc.
 <br><br>
 
-This web project results from the exploration of the overlapping fields of architecture design, digital media practice, user experience design, and immersive web experience. It allows audiences to discover design features interactively and responsively within a website presentation format for desktop, tablet, and mobile devices. Users can navigate in the virtual environment regarding both macro and micro observation levels. It suggests the possible format of future NFT architectural products following the Web 3.0 and Metaverse tides.
+The design results from the overlapping fields of architecture, digital media, user experience, and immersive web design. Traditional 2D diagrams and renderings often fall short of capturing the richness of architectural concepts and spatial experiences. To remedy this, web-based interactive digital media has been introduced. Easily accessible via a web browser, it offers users an accessible seamless 3D immersive experience without the need for specialized VR technology. It addresses challenges in understanding advanced architectural concepts and visualizing complex fashion design workflows inclusively and responsively across various digital platforms.
 <br><br>
 
 **Quick Link:**
