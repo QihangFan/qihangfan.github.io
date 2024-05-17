@@ -31,6 +31,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 - [2023 ASUS ProArtist Awards Animation Top 30](https://www.asus.com/campaign/ASUS-ProArtist-Awards-2023/us/winner.php) by ASUSTeK Computer Inc.
 <br><br>
 
+**Description:**
 The design results from the overlapping fields of architecture, digital media, user experience, and immersive web design. Traditional 2D diagrams and renderings often fall short of capturing the richness of architectural concepts and spatial experiences. To remedy this, web-based interactive digital media has been introduced. Easily accessible via a web browser, it offers users an accessible seamless 3D immersive experience without the need for specialized VR technology. It addresses challenges in understanding advanced architectural concepts and visualizing complex fashion design workflows inclusively and responsively across various digital platforms.
 <br><br>
 
