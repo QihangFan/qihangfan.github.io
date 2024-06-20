@@ -5,6 +5,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 
 **Recognitions:**
 - [2024 iF Design Award Winner](https://ifdesign.com/en/winner-ranking/project/four-typologies-immersive-web-experience/622719) by iF International Forum Design
+- [2024 UX Design Awards Nominated](https://ux-design-awards.com/winners/2024-1-four-typologies) by International Design Center Berlin
 - [2024 AVA Digital Awards in UX Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies/) by Association of Marketing and Communication Professionals
 - [2024 AVA Digital Awards in Video Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies-2/) by Association of Marketing and Communication Professionals
 - [2024 TITAN Innovation Awards in Interactive Media Platinum Winner](https://titaninnovationawards.com/winner-info.php?id=208) by TITAN Innovation Awards
@@ -17,16 +18,15 @@ Four Typologies is a responsive interactive media website that introduces new de
 - [2024 NYX Awards in Best User Experience Gold Winner](https://nyxawards.com/winner-info.php?id=6629) by NYX Awards
 - [2024 New York Product Design Awards in Interface for Digital Media Silver Winner](https://nydesignawards.com/winner-info.php?id=1766) by New York Product Design Awards
 - 2024 Interactive Competition Finalist by Communication Arts
-- [2023 UX Design Awards Nominated](https://ux-design-awards.com/winners/2024-1-four-typologies) by International Design Center Berlin
+- [2023 GOOD DESIGN® Award Winner](https://www.good-designawards.com/award-details.html?award=54570) by The Chicago Athenaeum
+- [2023 Digital Design Awards Winner](https://gdusa.com/2023-digital-design-awards-winner?rns=0|36327131) by Graphic Design USA
+- [2023 The Motion Awards Winner in Motion Design](https://motionawards.com/four-typologies/) by Motionographer
 - [2023 International Design Awards in Website Design Silver Winner](https://www.idesignawards.com/winners/zoom.php?eid=9-49348-23) by International Design Awards
 - [2023 International Design Awards in Web Application Design Gold Winner](https://www.idesignawards.com/winners/zoom.php?eid=9-49348-23) by International Design Awards
 - [2023 International Design Awards in Multimedia Animation Bronze Winner](https://www.idesignawards.com/winners/zoom.php?eid=9-49348-23) by International Design Awards
-- [2023 The Motion Awards Winner in Motion Design](https://motionawards.com/four-typologies/) by Motionographer
 - [2023 London Design Awards in UX Experimental / Innovative Gold Winner](https://thelondondesignawards.com/winner-info.php?id=1574) by London Design Awards
 - [2023 London Design Awards in UX Art Gold Winner](https://thelondondesignawards.com/winner-info.php?id=1575) by London Design Awards
 - [2023 London Design Awards in UX Best Visual Design - Aesthetic Gold Winner](https://thelondondesignawards.com/winner-info.php?id=1573) by London Design Awards
-- [2023 GOOD DESIGN® Award Winner](https://www.good-designawards.com/award-details.html?award=54570) by The Chicago Athenaeum
-- [2023 Digital Design Awards Winner](https://gdusa.com/2023-digital-design-awards-winner?rns=0|36327131) by Graphic Design USA
 - [2023 Honorable Mention](https://www.awwwards.com/sites/four-typologies) by Awwwards
 - [2023 ASUS ProArtist Awards Animation Top 30](https://www.asus.com/campaign/ASUS-ProArtist-Awards-2023/us/winner.php) by ASUSTeK Computer Inc.
 <br><br>
