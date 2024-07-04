@@ -12,6 +12,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 - [2024 MUSE Creative Awards in Art&Design Gold Winner](https://museaward.com/winner-info.php?id=228541) by MUSE Creative Awards
 - [2024 MUSE Creative Awards in Experimental Website Gold Winner](https://museaward.com/winner-info.php?id=228542) by MUSE Creative Awards
 - [2024 Indigo Awards in Interactive Design, Website Design, Digital Art Gold Winner](https://indigoaward.com/winners/7560) by Indigo Design Award
+- [2024 DNA Paris Design Awards in Interactive Design Winner](https://dna.paris/winner/zoom.php?eid=71-91358-23) by DNA Paris Design Awards
 - [2024 Vega Digital Awards in Website Best Visual Design Gold Winner](https://vegaawards.com/winner-info.php?id=46584) by Vega Digital Awards
 - [2024 Vega Digital Awards in Website Innovative Gold Winner](https://vegaawards.com/winner-info.php?id=46582) by Vega Digital Awards
 - [2024 NYX Awards in Website Aesthetics Gold Winner](https://nyxawards.com/winner-info.php?id=6628) by NYX Awards
