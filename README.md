@@ -10,6 +10,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 - [2024 AVA Digital Awards in Video Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies-2/) by Association of Marketing and Communication Professionals
 - [2024 K Design Award in Communication Gold Winner](https://kdesignaward.com/index.php?mid=exhibition&search_target=extra_vars2&search_keyword=2024&page=2&document_srl=377830) by DESIGNSORI Co.
 - [2024 TITAN Innovation Awards in Interactive Media Platinum Winner](https://titaninnovationawards.com/winner-info.php?id=208) by TITAN Innovation Awards
+- [2024 French Design Awards in Product Design Gold Winner](https://frenchdesignawards.com/winner-info.php?id=945) by French Design Awards
 - [2024 MUSE Creative Awards in Art&Design Gold Winner](https://museaward.com/winner-info.php?id=228541) by MUSE Creative Awards
 - [2024 MUSE Creative Awards in Experimental Website Gold Winner](https://museaward.com/winner-info.php?id=228542) by MUSE Creative Awards
 - [2024 Indigo Awards in Interactive Design, Website Design, Digital Art Gold Winner](https://indigoaward.com/winners/7560) by Indigo Design Award
