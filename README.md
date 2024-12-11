@@ -6,6 +6,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 **Recognitions:**
 - [2024 iF Design Award Winner](https://ifdesign.com/en/winner-ranking/project/four-typologies-immersive-web-experience/622719) by iF International Forum Design
 - [2024 UX Design Awards Nominated](https://ux-design-awards.com/winners/2024-1-four-typologies) by International Design Center Berlin
+- [2024 C2A Creative Communication Awards Best of Best Distinction](https://www.c2award.com/winners/c2a/2024/5727/) by Farmani Group
 - [2024 AVA Digital Awards in UX Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies/) by Association of Marketing and Communication Professionals
 - [2024 AVA Digital Awards in Video Creativity Platinum Winner](https://enter.amcpros.com/ava/entry/four-typologies-2/) by Association of Marketing and Communication Professionals
 - [2024 K Design Award in Communication Gold Winner](https://kdesignaward.com/index.php?mid=exhibition&search_target=extra_vars2&search_keyword=2024&page=2&document_srl=377830) by DESIGNSORI Co.
