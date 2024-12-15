@@ -21,6 +21,7 @@ Four Typologies is a responsive interactive media website that introduces new de
 - [2024 NYX Awards in Website Aesthetics Gold Winner](https://nyxawards.com/winner-info.php?id=6628) by NYX Awards
 - [2024 NYX Awards in Best User Experience Gold Winner](https://nyxawards.com/winner-info.php?id=6629) by NYX Awards
 - [2024 New York Product Design Awards in Interface for Digital Media Silver Winner](https://nydesignawards.com/winner-info.php?id=1766) by New York Product Design Awards
+- [2024 Spark Design Awards Finalist](https://galleries.sparkawards.com/index.cfm?year=2024&entry=46E67AFB-D270-6687-3FC323D633E3D1AE) by Spark Design Awards™
 - 2024 Interactive Competition Finalist by Communication Arts
 - [2023 GOOD DESIGN® Award Winner](https://www.good-designawards.com/award-details.html?award=54570) by The Chicago Athenaeum
 - [2023 Digital Design Awards Winner](https://gdusa.com/2023-digital-design-awards-winner?rns=0|36327131) by Graphic Design USA
